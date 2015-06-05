@@ -1,0 +1,4 @@
+bibtexparser==0.6.0
+pybtex==0.18
+fuzzywuzzy==0.5.0
+latexcodec==1.0.1
